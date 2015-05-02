@@ -1,2 +1,3 @@
 untitled.tex
 hi_there_eu_textbf_geni__.tex
+figures/dashboarding/dashboarding.jpg
